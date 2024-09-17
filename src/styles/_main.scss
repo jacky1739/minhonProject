@@ -1,0 +1,43 @@
+.mainBanner {
+  background-image: url("../../public/images/minbanner.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.mainBanner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.mainText {
+  line-height: 1.5em;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 56px;
+  text-transform: uppercase;
+}
+
+.horizontalLine {
+  border-top: 1px solid black;
+  height: 20px;
+}
+
+@media screen and (max-width: 992px) {
+  .mainText {
+    font-size: 40px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .mainText {
+    font-size: 32px;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .mainText {
+    font-size: 16px;
+  }
+}

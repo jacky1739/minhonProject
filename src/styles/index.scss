@@ -1,0 +1,15 @@
+// import bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// covariablesnfig
+@import "variables";
+
+// layout
+// @import "reboot";
+@import "./utilities.scss";
+
+
+// custom scss
+// @import "../App.scss";
+@import "./main.scss";
+@import "./header.scss";
