@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/minhonProject/static/css/main.0521a14f.css",
+    "main.js": "/minhonProject/static/js/main.79dce886.js",
+    "static/js/453.56f46472.chunk.js": "/minhonProject/static/js/453.56f46472.chunk.js",
+    "static/media/minbanner.jpg": "/minhonProject/static/media/minbanner.657c4a4dcdb302f403ff.jpg",
+    "index.html": "/minhonProject/index.html",
+    "main.0521a14f.css.map": "/minhonProject/static/css/main.0521a14f.css.map",
+    "main.79dce886.js.map": "/minhonProject/static/js/main.79dce886.js.map",
+    "453.56f46472.chunk.js.map": "/minhonProject/static/js/453.56f46472.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0521a14f.css",
+    "static/js/main.79dce886.js"
+  ]
+}
